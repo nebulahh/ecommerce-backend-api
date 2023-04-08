@@ -1,6 +1,6 @@
 # E-commerce API made with node.js, Express and Typescript
 
-``slow down, this project is undergoing work.``
+``slow down, this project is undergoing development.``
 
 ## Setup
 
